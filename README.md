@@ -4,3 +4,4 @@
 <h4>Step1 : Enter the length of your string</h4>
 <h4>Step2 : choose if you want to include special characters</h4>
 <h4>Step3 : Copy the password to use it.</h4>
+Bonus: Attempt to run the program once for a surprise.
